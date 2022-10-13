@@ -1,0 +1,11 @@
+// skal byttes med copypasta fra Jasons repo
+stuffservice:
+  baseurl: "https://localhost:8080/api"
+
+resilience4j:
+// mye mangler her, se forelesning
+
+management:
+  health:
+    circuitbreakers:
+      enabled: true
